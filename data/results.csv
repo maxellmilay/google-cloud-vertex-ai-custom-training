@@ -1,0 +1,183 @@
+entity_id,Name,Age,Sex,Fare,Pclass,SibSp,timestamp
+id-44,"Cherry, Miss. Gladys",30.0,female,86.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-40,"Minahan, Dr. William Edward",44.0,male,90.0,1,2,2024-09-15 13:24:22.862434+00:00
+id-126,"Kimball, Mr. Edwin Nelson Jr",42.0,male,52.5542,1,1,2024-09-15 13:24:22.862434+00:00
+id-23,"Futrelle, Mr. Jacques Heath",37.0,male,53.1,1,1,2024-09-15 13:24:22.862434+00:00
+id-145,"Calderhead, Mr. Edward Pennington",42.0,male,26.2875,1,0,2024-09-15 13:24:22.862434+00:00
+id-178,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,female,52.5542,1,1,2024-09-15 13:24:22.862434+00:00
+id-148,"Soholt, Mr. Peter Andreas Lauritz Andersen",19.0,male,7.65,3,0,2024-09-15 13:24:22.862434+00:00
+id-11,"Nye, Mrs. (Elizabeth Ramell)",29.0,female,10.5,2,0,2024-09-15 13:24:22.862434+00:00
+id-26,"Pears, Mrs. Thomas (Edith Wearne)",22.0,female,66.6,1,1,2024-09-15 13:24:22.862434+00:00
+id-166,"Guggenheim, Mr. Benjamin",46.0,male,79.2,1,0,2024-09-15 13:24:22.862434+00:00
+id-140,"Dick, Mr. Albert Adrian",31.0,male,57.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-106,"Perreault, Miss. Anne",30.0,female,93.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-37,"Bazzani, Miss. Albina",32.0,female,76.2917,1,0,2024-09-15 13:24:22.862434+00:00
+id-27,"Van der hoef, Mr. Wyckoff",61.0,male,33.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-67,"Pears, Mr. Thomas Clinton",29.0,male,66.6,1,1,2024-09-15 13:24:22.862434+00:00
+id-104,"Walker, Mr. William Anderson",47.0,male,34.0208,1,0,2024-09-15 13:24:22.862434+00:00
+id-128,"Longley, Miss. Gretchen Fiske",21.0,female,77.9583,1,0,2024-09-15 13:24:22.862434+00:00
+id-74,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,female,75.25,1,1,2024-09-15 13:24:22.862434+00:00
+id-77,"Widener, Mr. Harry Elkins",27.0,male,211.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-112,"Thayer, Mr. John Borland Jr",17.0,male,110.8833,1,0,2024-09-15 13:24:22.862434+00:00
+id-2,"McCarthy, Mr. Timothy J",54.0,male,51.8625,1,0,2024-09-15 13:24:22.862434+00:00
+id-85,"Carter, Miss. Lucile Polk",14.0,female,120.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-169,"Andrews, Mr. Thomas Jr",39.0,male,0.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-157,"Marvin, Mr. Daniel Warner",19.0,male,53.1,1,1,2024-09-15 13:24:22.862434+00:00
+id-87,"Dodge, Master. Washington",4.0,male,81.8583,1,0,2024-09-15 13:24:22.862434+00:00
+id-45,"Taussig, Mr. Emil",52.0,male,79.65,1,1,2024-09-15 13:24:22.862434+00:00
+id-38,"Hoyt, Mr. Frederick Maxfield",38.0,male,90.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-71,"Fortune, Miss. Alice Elizabeth",24.0,female,263.0,1,3,2024-09-15 13:24:22.862434+00:00
+id-5,"Beesley, Mr. Lawrence",34.0,male,13.0,2,0,2024-09-15 13:24:22.862434+00:00
+id-0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,female,71.2833,1,1,2024-09-15 13:24:22.862434+00:00
+id-68,"Burns, Miss. Elizabeth Margaret",41.0,female,134.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-25,"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,male,26.0,2,0,2024-09-15 13:24:22.862434+00:00
+id-127,"Sutton, Mr. Frederick",61.0,male,32.3208,1,0,2024-09-15 13:24:22.862434+00:00
+id-31,"Navratil, Master. Michel M",3.0,male,26.0,2,1,2024-09-15 13:24:22.862434+00:00
+id-94,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23.0,female,13.7917,2,0,2024-09-15 13:24:22.862434+00:00
+id-135,"Colley, Mr. Edward Pomeroy",47.0,male,25.5875,1,0,2024-09-15 13:24:22.862434+00:00
+id-8,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,female,76.7292,1,1,2024-09-15 13:24:22.862434+00:00
+id-131,"Sagesser, Mlle. Emma",24.0,female,69.3,1,0,2024-09-15 13:24:22.862434+00:00
+id-36,"Newell, Miss. Madeleine",31.0,female,113.275,1,1,2024-09-15 13:24:22.862434+00:00
+id-118,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,female,110.8833,1,1,2024-09-15 13:24:22.862434+00:00
+id-95,"Bishop, Mr. Dickinson H",25.0,male,91.0792,1,1,2024-09-15 13:24:22.862434+00:00
+id-110,"Crosby, Miss. Harriet R",36.0,female,71.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-167,"Leader, Dr. Alice (Farnham)",49.0,female,25.9292,1,0,2024-09-15 13:24:22.862434+00:00
+id-84,"Silvey, Mr. William Baird",50.0,male,55.9,1,1,2024-09-15 13:24:22.862434+00:00
+id-125,"Becker, Miss. Marion Louise",4.0,female,39.0,2,2,2024-09-15 13:24:22.862434+00:00
+id-91,"Millet, Mr. Francis Davis",65.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-41,"Beckwith, Mr. Richard Leonard",37.0,male,52.5542,1,1,2024-09-15 13:24:22.862434+00:00
+id-152,"Allen, Miss. Elisabeth Walton",29.0,female,211.3375,1,0,2024-09-15 13:24:22.862434+00:00
+id-90,"Goldenberg, Mr. Samuel L",49.0,male,89.1042,1,1,2024-09-15 13:24:22.862434+00:00
+id-59,"Ryerson, Miss. Emily Borie",18.0,female,262.375,1,2,2024-09-15 13:24:22.862434+00:00
+id-65,"Partner, Mr. Austen",45.5,male,28.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-14,"Chaffee, Mr. Herbert Fuller",46.0,male,61.175,1,1,2024-09-15 13:24:22.862434+00:00
+id-75,"Aubart, Mme. Leontine Pauline",24.0,female,69.3,1,0,2024-09-15 13:24:22.862434+00:00
+id-13,"Fortune, Miss. Mabel Helen",23.0,female,263.0,1,3,2024-09-15 13:24:22.862434+00:00
+id-123,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49.0,male,56.9292,1,1,2024-09-15 13:24:22.862434+00:00
+id-9,"Ostby, Mr. Engelhart Cornelius",65.0,male,61.9792,1,0,2024-09-15 13:24:22.862434+00:00
+id-48,"Bissette, Miss. Amelia",35.0,female,135.6333,1,0,2024-09-15 13:24:22.862434+00:00
+id-138,"Hassab, Mr. Hammad",27.0,male,76.7292,1,0,2024-09-15 13:24:22.862434+00:00
+id-122,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,female,78.2667,1,1,2024-09-15 13:24:22.862434+00:00
+id-161,"Hogeboom, Mrs. John C (Anna Andrews)",51.0,female,77.9583,1,1,2024-09-15 13:24:22.862434+00:00
+id-61,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,female,134.5,1,1,2024-09-15 13:24:22.862434+00:00
+id-80,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,female,16.7,3,0,2024-09-15 13:24:22.862434+00:00
+id-153,"Lesurer, Mr. Gustave J",35.0,male,512.3292,1,0,2024-09-15 13:24:22.862434+00:00
+id-179,"Carlsson, Mr. Frans Olof",33.0,male,5.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-181,"Graham, Miss. Margaret Edith",19.0,female,30.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-160,"Carter, Mrs. William Ernest (Lucile Polk)",36.0,female,120.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-137,"Cardeza, Mr. Thomas Drake Martinez",36.0,male,512.3292,1,0,2024-09-15 13:24:22.862434+00:00
+id-100,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25.0,female,151.55,1,1,2024-09-15 13:24:22.862434+00:00
+id-130,"Stahelin-Maeglin, Dr. Max",32.0,male,30.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,female,53.1,1,1,2024-09-15 13:24:22.862434+00:00
+id-176,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,female,25.9292,1,0,2024-09-15 13:24:22.862434+00:00
+id-76,"Harder, Mr. George Achilles",25.0,male,55.4417,1,1,2024-09-15 13:24:22.862434+00:00
+id-72,"Brown, Miss. Amelia ""Mildred""",24.0,female,13.0,2,0,2024-09-15 13:24:22.862434+00:00
+id-117,"Silvey, Mrs. William Baird (Alice Munger)",39.0,female,55.9,1,1,2024-09-15 13:24:22.862434+00:00
+id-15,"Goldschmidt, Mr. George B",71.0,male,34.6542,1,0,2024-09-15 13:24:22.862434+00:00
+id-47,"Graham, Mrs. William Thompson (Edith Junkins)",58.0,female,153.4625,1,0,2024-09-15 13:24:22.862434+00:00
+id-49,"Natsch, Mr. Charles H",37.0,male,29.7,1,0,2024-09-15 13:24:22.862434+00:00
+id-142,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42.0,male,7.65,3,0,2024-09-15 13:24:22.862434+00:00
+id-18,"Porter, Mr. Walter Chamberlain",47.0,male,52.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-114,"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,female,79.65,1,1,2024-09-15 13:24:22.862434+00:00
+id-111,"Douglas, Mr. Walter Donald",50.0,male,106.425,1,1,2024-09-15 13:24:22.862434+00:00
+id-86,"Fortune, Mr. Mark",64.0,male,263.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-146,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24.0,female,49.5042,1,0,2024-09-15 13:24:22.862434+00:00
+id-7,"Fortune, Mr. Charles Alexander",19.0,male,263.0,1,3,2024-09-15 13:24:22.862434+00:00
+id-159,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,female,86.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-180,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,female,83.1583,1,0,2024-09-15 13:24:22.862434+00:00
+id-164,"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,female,57.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-3,"Sandstrom, Miss. Marguerite Rut",4.0,female,16.7,3,1,2024-09-15 13:24:22.862434+00:00
+id-119,"Ross, Mr. John Hugo",36.0,male,40.125,1,0,2024-09-15 13:24:22.862434+00:00
+id-115,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,female,51.4792,1,2,2024-09-15 13:24:22.862434+00:00
+id-54,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,female,247.5208,1,0,2024-09-15 13:24:22.862434+00:00
+id-43,"Stead, Mr. William Thomas",62.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-96,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,female,90.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-62,"Young, Miss. Marie Grice",36.0,female,135.6333,1,0,2024-09-15 13:24:22.862434+00:00
+id-133,"Simonius-Blumer, Col. Oberst Alfons",56.0,male,35.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-70,"Navratil, Master. Edmond Roger",2.0,male,26.0,2,1,2024-09-15 13:24:22.862434+00:00
+id-33,"Lurette, Miss. Elise",58.0,female,146.5208,1,0,2024-09-15 13:24:22.862434+00:00
+id-21,"White, Mr. Percival Wayland",54.0,male,77.2875,1,0,2024-09-15 13:24:22.862434+00:00
+id-144,"Silverthorne, Mr. Spencer Victor",35.0,male,26.2875,1,0,2024-09-15 13:24:22.862434+00:00
+id-175,"Daly, Mr. Peter Denis ",51.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-149,"Endres, Miss. Caroline Louise",38.0,female,227.525,1,0,2024-09-15 13:24:22.862434+00:00
+id-177,"Roebling, Mr. Washington Augustus II",31.0,male,50.4958,1,0,2024-09-15 13:24:22.862434+00:00
+id-19,"Baxter, Mr. Quigg Edmond",24.0,male,247.5208,1,0,2024-09-15 13:24:22.862434+00:00
+id-105,"Lemore, Mrs. (Amelia Milley)",34.0,female,10.5,2,0,2024-09-15 13:24:22.862434+00:00
+id-121,"Frolicher-Stehli, Mr. Maxmillian",60.0,male,79.2,1,1,2024-09-15 13:24:22.862434+00:00
+id-102,"Penasco y Castellana, Mr. Victor de Satode",18.0,male,108.9,1,1,2024-09-15 13:24:22.862434+00:00
+id-132,"Harper, Mr. Henry Sleeper",48.0,male,76.7292,1,1,2024-09-15 13:24:22.862434+00:00
+id-16,"Greenfield, Mr. William Bertram",23.0,male,63.3583,1,0,2024-09-15 13:24:22.862434+00:00
+id-66,"Graham, Mr. George Edward",38.0,male,153.4625,1,0,2024-09-15 13:24:22.862434+00:00
+id-109,"Frolicher, Miss. Hedwig Margaritha",22.0,female,49.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-124,"Shutes, Miss. Elizabeth W",40.0,female,153.4625,1,0,2024-09-15 13:24:22.862434+00:00
+id-89,"Foreman, Mr. Benjamin Laventall",30.0,male,27.75,1,0,2024-09-15 13:24:22.862434+00:00
+id-78,"Carter, Mr. William Ernest",36.0,male,120.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-30,"Becker, Master. Richard F",1.0,male,39.0,2,2,2024-09-15 13:24:22.862434+00:00
+id-58,"Hays, Miss. Margaret Bechstein",24.0,female,83.1583,1,0,2024-09-15 13:24:22.862434+00:00
+id-151,"Chambers, Mr. Norman Campbell",27.0,male,53.1,1,1,2024-09-15 13:24:22.862434+00:00
+id-52,"Levy, Mr. Rene Jacques",36.0,male,12.875,2,0,2024-09-15 13:24:22.862434+00:00
+id-6,"Sloper, Mr. William Thompson",28.0,male,35.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-103,"McGough, Mr. James Robert",36.0,male,26.2875,1,0,2024-09-15 13:24:22.862434+00:00
+id-32,"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,female,27.7208,1,0,2024-09-15 13:24:22.862434+00:00
+id-165,"Long, Mr. Milton Clyde",29.0,male,30.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-60,"Wick, Miss. Mary Natalie",31.0,female,164.8667,1,0,2024-09-15 13:24:22.862434+00:00
+id-150,"Troutt, Miss. Edwina Celia ""Winnie""",27.0,female,10.5,2,0,2024-09-15 13:24:22.862434+00:00
+id-116,"Flynn, Mr. John Irwin (""Irving"")",36.0,male,26.3875,1,0,2024-09-15 13:24:22.862434+00:00
+id-129,"Barkworth, Mr. Algernon Henry Wilson",80.0,male,30.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-162,"Mack, Mrs. (Mary)",57.0,female,10.5,2,0,2024-09-15 13:24:22.862434+00:00
+id-17,"White, Mr. Richard Frasar",21.0,male,77.2875,1,0,2024-09-15 13:24:22.862434+00:00
+id-99,"Eustis, Miss. Elizabeth Mussey",54.0,female,78.2667,1,1,2024-09-15 13:24:22.862434+00:00
+id-81,"Minahan, Miss. Daisy E",33.0,female,90.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-82,"Pickard, Mr. Berk (Berk Trembisky)",32.0,male,8.05,3,0,2024-09-15 13:24:22.862434+00:00
+id-107,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,female,57.9792,1,0,2024-09-15 13:24:22.862434+00:00
+id-120,"Taussig, Miss. Ruth",18.0,female,79.65,1,0,2024-09-15 13:24:22.862434+00:00
+id-93,"Gee, Mr. Arthur H",47.0,male,38.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-53,"Allison, Miss. Helen Loraine",2.0,female,151.55,1,1,2024-09-15 13:24:22.862434+00:00
+id-55,"Allison, Master. Hudson Trevor",0.92,male,151.55,1,1,2024-09-15 13:24:22.862434+00:00
+id-79,"Newell, Miss. Marjorie",23.0,female,113.275,1,1,2024-09-15 13:24:22.862434+00:00
+id-64,"Hippach, Miss. Jean Gertrude",16.0,female,57.9792,1,0,2024-09-15 13:24:22.862434+00:00
+id-88,"Peuchen, Major. Arthur Godfrey",52.0,male,30.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-12,"Moen, Mr. Sigurd Hansen",25.0,male,7.65,3,0,2024-09-15 13:24:22.862434+00:00
+id-39,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,female,83.475,1,1,2024-09-15 13:24:22.862434+00:00
+id-101,"Maioni, Miss. Roberta",16.0,female,86.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-168,"Carter, Master. William Thornton II",11.0,male,120.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-73,"Bowerman, Miss. Elsie Edith",22.0,female,55.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-154,"Cavendish, Mr. Tyrell William",36.0,male,78.85,1,1,2024-09-15 13:24:22.862434+00:00
+id-69,"Blackwell, Mr. Stephen Weart",45.0,male,35.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-173,"Compton, Miss. Sara Rebecca",39.0,female,83.1583,1,1,2024-09-15 13:24:22.862434+00:00
+id-42,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29.0,female,10.4625,3,1,2024-09-15 13:24:22.862434+00:00
+id-171,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,female,93.5,1,1,2024-09-15 13:24:22.862434+00:00
+id-139,"Madill, Miss. Georgette Alexandra",15.0,female,211.3375,1,0,2024-09-15 13:24:22.862434+00:00
+id-141,"Thayer, Mr. John Borland",49.0,male,110.8833,1,1,2024-09-15 13:24:22.862434+00:00
+id-34,"Strom, Miss. Telma Matilda",2.0,female,10.4625,3,0,2024-09-15 13:24:22.862434+00:00
+id-20,"Webber, Miss. Susan",32.5,female,13.0,2,0,2024-09-15 13:24:22.862434+00:00
+id-63,"Ball, Mrs. (Ada E Hall)",36.0,female,13.0,2,0,2024-09-15 13:24:22.862434+00:00
+id-143,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,female,227.525,1,1,2024-09-15 13:24:22.862434+00:00
+id-174,"Lines, Miss. Mary Conover",16.0,female,39.4,1,0,2024-09-15 13:24:22.862434+00:00
+id-98,"Molson, Mr. Harry Markland",55.0,male,30.5,1,0,2024-09-15 13:24:22.862434+00:00
+id-50,"Andrews, Miss. Kornelia Theodosia",63.0,female,77.9583,1,1,2024-09-15 13:24:22.862434+00:00
+id-83,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-57,"Francatelli, Miss. Laura Mabel",30.0,female,56.9292,1,0,2024-09-15 13:24:22.862434+00:00
+id-156,"Crosby, Capt. Edward Gifford",70.0,male,71.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-170,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,female,53.1,1,1,2024-09-15 13:24:22.862434+00:00
+id-155,"Ryerson, Miss. Susan Parker ""Suzette""",21.0,female,262.375,1,2,2024-09-15 13:24:22.862434+00:00
+id-56,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,female,108.9,1,1,2024-09-15 13:24:22.862434+00:00
+id-4,"Bonnell, Miss. Elizabeth",58.0,female,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-158,"Moor, Master. Meier",6.0,male,12.475,3,0,2024-09-15 13:24:22.862434+00:00
+id-35,"Blank, Mr. Henry",40.0,male,31.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-28,"Smith, Mr. James Clinch",56.0,male,30.6958,1,0,2024-09-15 13:24:22.862434+00:00
+id-147,"Taylor, Mr. Elmer Zebley",48.0,male,52.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-134,"Newell, Mr. Arthur Webster",58.0,male,113.275,1,0,2024-09-15 13:24:22.862434+00:00
+id-46,"Harrison, Mr. William",40.0,male,0.0,1,0,2024-09-15 13:24:22.862434+00:00
+id-108,"Butt, Major. Archibald Willingham",45.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
+id-24,"Giglio, Mr. Victor",24.0,male,79.2,1,0,2024-09-15 13:24:22.862434+00:00
+id-97,"Kent, Mr. Edward Austin",58.0,male,29.7,1,0,2024-09-15 13:24:22.862434+00:00
+id-29,"Isham, Miss. Ann Elizabeth",50.0,female,28.7125,1,0,2024-09-15 13:24:22.862434+00:00
+id-172,"Moor, Mrs. (Beila)",27.0,female,12.475,3,0,2024-09-15 13:24:22.862434+00:00
+id-113,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48.0,female,39.6,1,1,2024-09-15 13:24:22.862434+00:00
+id-10,"Harris, Mr. Henry Birkhardt",45.0,male,83.475,1,1,2024-09-15 13:24:22.862434+00:00
+id-51,"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,female,91.0792,1,1,2024-09-15 13:24:22.862434+00:00
+id-163,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,female,211.3375,1,0,2024-09-15 13:24:22.862434+00:00
+id-136,"Davidson, Mr. Thornton",31.0,male,52.0,1,1,2024-09-15 13:24:22.862434+00:00
+id-22,"Newsom, Miss. Helen Monypeny",19.0,female,26.2833,1,0,2024-09-15 13:24:22.862434+00:00
+id-92,"Anderson, Mr. Harry",48.0,male,26.55,1,0,2024-09-15 13:24:22.862434+00:00
